@@ -1,0 +1,7 @@
+body {
+  overflow: hidden;
+}
+
+canvas {
+  background-color: rgb(170, 104, 166);
+}
